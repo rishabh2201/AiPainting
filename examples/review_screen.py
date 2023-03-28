@@ -5,9 +5,12 @@
 
 import os
 import logging
+import image_display
+
 from piblo import config_wrapper
 from omni_epd import displayfactory, EPDNotFoundError
 from PIL import Image
+
 
 # Display Settings
 DEFAULT_DISPLAY_TYPE = "omni_epd.mock"
