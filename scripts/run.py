@@ -20,6 +20,7 @@ if instance.config.use_pijuice:
     logging.info("Starting program using PiJuice")
     pijuice_instance = PiJuiceHandler()
     pijuice_instance.run()
+    import image_display
     exit()
 else:
     logging.info("Starting program without using PiJuice")
