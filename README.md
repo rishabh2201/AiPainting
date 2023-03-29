@@ -33,7 +33,7 @@ more information. You can always do this later if you don't want to use PiJuice 
 * (Optional) Run `sudo apt-get update` and `sudo apt-get upgrade` to update system
 * Run the following code to install pycasso in your home directory:
 ```
-bash <(curl https://raw.githubusercontent.com/rishlion/artisan/named/setup.sh)
+bash <(curl https://raw.githubusercontent.com/rishlion/pycasso/named/setup.sh)
 ```
 * Take note of the proposed installation directory
 * Select `Option 1` - Install/Upgrade pycasso

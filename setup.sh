@@ -3,7 +3,7 @@
 # https://github.com/TomWhitwell/SlowMovie/blob/main/Install/install.sh
 
 # GIT_REPO=https://github.com/jezs00/pycasso
-GIT_REPO=https://github.com/rishlion/artisan
+GIT_REPO=https://github.com/rishlion/pycasso
 GIT_BRANCH=named
 SKIP_DEPS=false
 
