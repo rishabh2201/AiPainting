@@ -5,7 +5,6 @@
 
 import os
 import logging
-import image_display
 
 from piblo import config_wrapper
 from omni_epd import displayfactory, EPDNotFoundError
